@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "9197",
+      "name": "Sree",
+      "mobile": "9876543210",
+      "email": "sree@gmail.com",
+      "location": "Covai",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "role": "Buyer"
+    },
+    {
+      "id": "a3f8",
+      "name": "Karthi",
+      "mobile": "1122334455",
+      "email": "karthi@gmail.com",
+      "location": "chennai",
+      "password": "1122",
+      "confirmPassword": "1122",
+      "role": "Buyer"
+    },
+    {
+      "id": "6ee0",
+      "name": "Shankar",
+      "mobile": "9965989821",
+      "email": "shankar@gmail.com",
+      "location": "Karur",
+      "password": "5678",
+      "confirmPassword": "5678",
+      "role": "Seller"
+    }
+  ]
+}
